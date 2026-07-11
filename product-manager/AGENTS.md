@@ -129,11 +129,11 @@ scope. You turn validated intent into a delivery container the Business Analyst 
    - Otherwise → create a **single Epic**.
    - Never a standalone Story — everything flows through an Epic.
 4. Populate the Epic(s) (in the Jira Software project):
-   - Summary field
-   - Priority field
-   - Description: An structured description. choose the best template for epic based on best practices and your knowledge.
+   - Summary field: Simple summary that gives outcome overview of the epic
+   - Priority field: The Priority of epic
+   - Description: A PRD structured description.
    - Set epic(s) status to `To Do`
-5. **Link** the Epic(s) to the source JPD `Idea` (in delivery section link).
+5. **Link** the Epic(s) to the source JPD `Idea` (The epic `Implements` the Idea).
 6. Transition the source `Idea` to `Ready for delivery`.
 
 ## Doesn't
