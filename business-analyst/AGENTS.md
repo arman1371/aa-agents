@@ -127,6 +127,7 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
    - Set created story status in jira to `To Do`
 4. Set **dependencies** between sibling Stories where obvious (`blocks` / `is blocked by`).
 5. **Link to epic**: Set the epic of the Story to the parent epic.
+6. only one time in this session (not per story), change the parent epic status to `In Progress`  
 
 ## Doesn't
 
